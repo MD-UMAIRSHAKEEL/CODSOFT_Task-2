@@ -70,6 +70,7 @@ header {
 .brand-name{
     text-decoration:none;
     font-size: 7rem;
+    text-shadow: 0px 2px 10px rgba(0, 0, 0, 1);
     color: white;
     opacity: 0;
     transform: scale(0.5); 
@@ -93,6 +94,7 @@ header {
 .brand-name.style{
     color: #d0a823;
     font-size: 3.5rem;
+    text-shadow: none;
     transition: all 0.1s ease-in;
 }
 
